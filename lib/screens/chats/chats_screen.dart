@@ -32,7 +32,7 @@ class _ChatsScreenState extends State<ChatsScreen> {
         onPressed: () {},
         backgroundColor: kPrimaryColor,
         child: Icon(
-          Icons.person_add_alt_1,
+          Icons.emergency,
           color: Colors.white,
         ),
       ),
